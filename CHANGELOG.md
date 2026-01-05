@@ -1,6 +1,14 @@
 # Paste to Markdown Changelog
 
-## [Initial Release] - {PR_MERGE_DATE}
+## [Add Table and GFM Support] - {PR_MERGE_DATE}
+
+### Added
+
+- Support for GitHub Flavored Markdown (GFM) using @joplin/turndown-plugin-gfm
+- Automatic conversion of HTML tables to markdown table format
+- Support for additional GFM features including strikethrough and tasklists
+
+## [Initial Release] - 2025-07-15
 
 ### Added
 
